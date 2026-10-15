@@ -91,7 +91,4 @@ npm run build        # static site in frontend/dist/
 
 More backend details (how a question is handled, API endpoints, chunking): [`backend/README.md`](backend/README.md).
 
-## Contact
 
-**Abhishek Singh** · [abhis9169@gmail.com](mailto:abhis9169@gmail.com) ·
-[LinkedIn](https://www.linkedin.com/in/abhishek-singh-547768203/)
